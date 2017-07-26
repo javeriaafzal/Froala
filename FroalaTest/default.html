@@ -37,6 +37,16 @@
 <script src="public/js/vendor.js"></script>
     <script src="public/js/app.js"></script>
 <!--<script> $(function() { $('textarea').froalaEditor() }); </script>--> 
+<script>
+   
+
+    $(function() {
+        var domEl = $("a[href='https://www.froala.com/wysiwyg-editor?k=u']");
+        domEl.ready(function() {
+            domEl.remove();
+        });
+    });
+</script>
 </body>
 </html>
 
