@@ -95,7 +95,6 @@
     "commit": "a5a005666d27f522e66d901e36089dca29d44014"
   },
   "_source": "https://github.com/froala/wysiwyg-editor.git",
-  "_target": "^2.6.4",
-  "_originalSource": "froala-wysiwyg-editor",
-  "_direct": true
+  "_target": "^2.6.1",
+  "_originalSource": "froala-wysiwyg-editor"
 }

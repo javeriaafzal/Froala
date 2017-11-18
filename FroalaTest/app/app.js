@@ -1,12 +1,10 @@
-﻿(function () {
+﻿(function() {
     "use strict";
-   
-   
+
+
     var modules = [
-        
-      
-        "FroalaTestconst"
-        
+        "FroalaTestconst",
+        "froala"
     ];
     var app = angular.module("FroalaTest", modules);
 }());

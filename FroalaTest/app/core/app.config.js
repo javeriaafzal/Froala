@@ -11,14 +11,19 @@
 
     function appRun($rootScope
         ) {
- 
+        $rootScope.Description = "kgkghkgh";
+        $rootScope.saveCategory = function() {
+            console.log($rootScope.Description);
+        };
+
         $rootScope.froala = function () {
             console.log("init");
             $("textarea").froalaEditor();
+            
         };
         
         $rootScope.froala();
-        console.log("init");
+        console.log($rootScope.Description);
 
 
     }

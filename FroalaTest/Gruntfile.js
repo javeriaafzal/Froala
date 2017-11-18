@@ -66,7 +66,9 @@
                     "bower_components/angular/angular.js",
                     "bower_components/bootstrap/dist/js/bootstrap.js",
                   
-                    "bower_components/froala-wysiwyg-editor/js/froala_editor.pkgd.min.js"
+                    "bower_components/froala-wysiwyg-editor/js/froala_editor.pkgd.min.js",
+                    "bower_components/angular-froala/angular-froala.js"
+                    
                     
                     
                 ],
@@ -81,7 +83,8 @@
                     "bower_components/bootstrap/dist/js/bootstrap.min.js",
                    
                    
-                   "bower_components/froala-wysiwyg-editor/js/froala_editor.pkgd.min.js"
+                    "bower_components/froala-wysiwyg-editor/js/froala_editor.pkgd.min.js",
+                    "bower_components/angular-froala/angular-froala.js"
                     
                 
                     
